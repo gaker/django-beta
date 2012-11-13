@@ -1,0 +1,4 @@
+{% load url from future %}
+Welcome {{ invite.name }}!
+
+{{ url }}
